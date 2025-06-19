@@ -1,0 +1,10 @@
+#Variables de entorno
+.env
+.env.local
+
+#Entornos virtuales
+.venv/
+venv/
+
+#Info
+json/
